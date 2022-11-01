@@ -1,5 +1,10 @@
+#<<<<<<< refactoring
+# refactoring change 1 
+# refactoring change 2
+#=======
 # git edit 1
 # git edit 2
+#>>>>>>> master
 import time
 from datetime import datetime
 import pandas as pd
